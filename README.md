@@ -22,4 +22,4 @@ Este proyecto consiste en el diseño y desarrollo de una base de datos para gest
 - SQL Workbench
 - Draw.io
 
-Desarrollado como parte del Taller Final de Base de Datos.
+
