@@ -13,8 +13,8 @@ Este proyecto consiste en el diseño y desarrollo de una base de datos para gest
 
 - `modelo_ER.png`: Diagrama entidad-relación
 - `clinica_citas.sql`: Script de creación e inserción de datos
-- `modelo_relacional.pdf`: Modelo relacional derivado
-- `diccionario_datos.pdf`: Diccionario de datos detallado
+- `modelo_relacional.png`: Modelo relacional derivado
+- `diccionario_datos.xlsx`: Diccionario de datos detallado
 
 ## 💻 Tecnologías utilizadas
 
